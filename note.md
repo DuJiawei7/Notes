@@ -60,7 +60,7 @@ $$
 
 <img src="images\Snipaste_2023-11-15_10-18-43.png" style="zoom:75%;" />
 
-![](images\Snipaste_2023-11-15_10-21-27.png)
+<img src="images\Snipaste_2023-11-15_10-21-27.png" style="zoom:99%;" />
 
 ##### Checking Gradient Descent for Convergence
 
@@ -86,7 +86,7 @@ $$
 
 #### Sigmoid function
 
-![](images\Snipaste_2023-11-15_10-43-37.png)
+<img src="images\Snipaste_2023-11-15_10-43-37.png" style="zoom:80%;" />
 
 #### Decision Boundary
 
@@ -96,19 +96,19 @@ $$
 
 #### Cost function
 
-![](images\Snipaste_2023-11-15_10-45-39.png)
+<img src="images\Snipaste_2023-11-15_10-45-39.png" style="zoom:95%;" />
 
 #### Gradient descent
 
-![](images\Snipaste_2023-11-15_11-04-24.png)
+<img src="images\Snipaste_2023-11-15_11-04-24.png" style="zoom:80%;" />
 
 #### Regularization to Reduce Overfitting
 
 ##### The Problem of overfitting
 
-![](images\Snipaste_2023-11-15_11-06-37.png)
+<img src="images\Snipaste_2023-11-15_11-06-37.png" style="zoom:80%;" />
 
-![](images\Snipaste_2023-11-15_11-07-54.png)
+<img src="images\Snipaste_2023-11-15_11-07-54.png" style="zoom:80%;" />
 
 ##### Addressing Overfitting
 
@@ -116,19 +116,19 @@ $$
 - Select features to include/exclude
 - Regularization
 
-![](images\Snipaste_2023-11-15_11-10-11.png)
+<img src="images\Snipaste_2023-11-15_11-10-11.png" style="zoom:80%;" />
 
-![](images\Snipaste_2023-11-15_11-10-59.png)
+<img src="images\Snipaste_2023-11-15_11-10-59.png" style="zoom:80%;" />
 
-![](images\Snipaste_2023-11-15_11-11-41.png)
+<img src="images\Snipaste_2023-11-15_11-11-41.png" style="zoom:80%;" />
 
 #### Cost Function with Regularization
 
-![](images\Snipaste_2023-11-15_11-13-38.png)
+<img src="images\Snipaste_2023-11-15_11-13-38.png" style="zoom:90%;" />
 
-![](images\Snipaste_2023-11-15_11-14-31.png)
+<img src="images\Snipaste_2023-11-15_11-14-31.png" style="zoom:90%;" />
 
-![](images\Snipaste_2023-11-15_11-15-49.png)
+<img src="images\Snipaste_2023-11-15_11-15-49.png" style="zoom:90%;" />
 
 # Part 2 Advanced Learning Algorithms
 
@@ -144,11 +144,11 @@ $$
 
 #### Activation function
 
-![](images\Snipaste_2023-11-15_11-39-20.png)
+<img src="images\Snipaste_2023-11-15_11-39-20.png" style="zoom:90%;" />
 
 ### Speculations on artificial general intelligence (AGI)
 
-![](images\Snipaste_2023-11-15_11-46-11.png)
+<img src="images\Snipaste_2023-11-15_11-46-11.png" style="zoom:80%;" />
 
 <img src="images\Snipaste_2023-11-15_11-47-16.png" style="zoom:75%;" />
 
@@ -158,41 +158,41 @@ $$
 
 ### Neural Network Training
 
-![](images\Snipaste_2023-11-15_11-53-23.png)
+<img src="images\Snipaste_2023-11-15_11-53-23.png" style="zoom:90%;" />
 
 
 
-<img src="images\Snipaste_2023-11-15_11-54-49.png"  />
+<img src="images\Snipaste_2023-11-15_11-54-49.png" style="zoom:95%;" />
 
-<img src="images\Snipaste_2023-11-15_11-55-07.png"  />
+<img src="images\Snipaste_2023-11-15_11-55-07.png" style="zoom:95%;" />
 
-![](images\Snipaste_2023-11-15_11-55-52.png)
+<img src="images\Snipaste_2023-11-15_11-55-52.png" style="zoom:95%;" />
 
 ### Multiclass Classification
 
-![](images\Snipaste_2023-11-15_12-06-34.png)
+<img src="images\Snipaste_2023-11-15_12-06-34.png" style="zoom:99%;" />
 
-![](images\Snipaste_2023-11-15_12-07-32.png)
+<img src="images\Snipaste_2023-11-15_12-07-32.png" style="zoom:80%;" />
 
-![](images\Snipaste_2023-11-15_12-09-42.png)
+<img src="images\Snipaste_2023-11-15_12-09-42.png" style="zoom:95%;" />
 
-![](images\Snipaste_2023-11-15_12-10-45.png)
+<img src="images\Snipaste_2023-11-15_12-10-45.png" style="zoom:99%;" />
 
-![](images\Snipaste_2023-11-15_12-13-00.png)
+<img src="images\Snipaste_2023-11-15_12-13-00.png" style="zoom:99%;" />
 
-![](images\Snipaste_2023-11-15_12-13-55.png)
+<img src="images\Snipaste_2023-11-15_12-13-55.png" style="zoom:99%;" />
 
 ### Multi-label Classification
 
-![](images\Snipaste_2023-11-15_12-15-08.png)
+<img src="images\Snipaste_2023-11-15_12-15-08.png" style="zoom:80%;" />
 
-![](images\Snipaste_2023-11-15_12-15-47.png)
+<img src="images\Snipaste_2023-11-15_12-15-47.png" style="zoom:80%;" />
 
 ### Advanced Optimization
 
-![](images\Snipaste_2023-11-15_12-17-06.png)
+<img src="images\Snipaste_2023-11-15_12-17-06.png" style="zoom:80%;" />
 
-![](images\Snipaste_2023-11-15_12-17-32.png)
+<img src="images\Snipaste_2023-11-15_12-17-32.png" style="zoom:80%;" />
 
 ## Week 3 Advice for applying machine learning
 
@@ -200,7 +200,7 @@ $$
 
 #### Machine learning diagnostic
 
-![](images\Snipaste_2023-11-15_15-51-47.png)
+<img src="images\Snipaste_2023-11-15_15-51-47.png" style="zoom:95%;" />
 
 High bias(Underfitting):
 
@@ -220,7 +220,7 @@ High Variance(Overfitting):
 
 #### Inappropriate method:
 
-![](images\Snipaste_2023-11-15_16-07-53.png)
+<img src="images\Snipaste_2023-11-15_16-07-53.png" style="zoom:80%;" />
 
 #### recommended method
 
@@ -236,7 +236,7 @@ High Variance(Overfitting):
 
 #### Diagnosing bias and variance
 
-![](images\Snipaste_2023-11-15_16-11-33.png)
+<img src="images\Snipaste_2023-11-15_16-11-33.png" style="zoom:80%;" />
 
 <img src="images\Snipaste_2023-11-15_16-11-59.png" style="zoom:80%;" />
 
@@ -244,7 +244,7 @@ High Variance(Overfitting):
 
 <img src="images\Snipaste_2023-11-15_16-14-20.png" style="zoom:80%;" />
 
-<img src="images\Snipaste_2023-11-15_16-15-10.png"  />
+<img src="images\Snipaste_2023-11-15_16-15-10.png" style="zoom:80%;" />
 
 #### Establishing a baseline level of performance
 
@@ -268,9 +268,9 @@ What is the level of error you can reasonably hope to get to?
 
 A large neural network will usually do as well or better than a smaller one so long as regularization is chosen appropriately.
 
-![](images\Snipaste_2023-11-15_16-24-44.png)
+<img src="images\Snipaste_2023-11-15_16-24-44.png" style="zoom:80%;" />
 
-![](images\Snipaste_2023-11-15_16-25-28.png)
+<img src="images\Snipaste_2023-11-15_16-25-28.png" style="zoom:80%;" />
 
 ### Machine learning development process
 
@@ -278,7 +278,7 @@ A large neural network will usually do as well or better than a smaller one so l
 
 #### Error analysis
 
-![](images\Snipaste_2023-11-15_16-28-37.png)
+<img src="images\Snipaste_2023-11-15_16-28-37.png" style="zoom: 80%;" />
 
 #### Adding data
 
@@ -288,14 +288,13 @@ A large neural network will usually do as well or better than a smaller one so l
     <img src="E:\课程\Machine_learning_spelization\images\Snipaste_2023-11-15_16-34-39.png" width=440 />
     <img src="E:\课程\Machine_learning_spelization\images\Snipaste_2023-11-15_16-35-19.png" width=440 />
 </center>
-
 <img src="images\Snipaste_2023-11-15_16-35-58.png" style="zoom:80%;" />
 
 
 
-![](images\Snipaste_2023-11-15_16-37-20.png)
+<img src="images\Snipaste_2023-11-15_16-37-20.png" style="zoom:80%;" />
 
-![](images\Snipaste_2023-11-15_16-37-37.png)
+<img src="images\Snipaste_2023-11-15_16-37-37.png" style="zoom:80%;" />
 
 <center>
     <img src="E:\课程\Machine_learning_spelization\images\Snipaste_2023-11-15_16-38-08.png" width="450">
@@ -312,7 +311,7 @@ A large neural network will usually do as well or better than a smaller one so l
 
 #### Full cycle of a machine learning project
 
-![](images\Snipaste_2023-11-15_16-51-02.png)
+<img src="images\Snipaste_2023-11-15_16-51-02.png" style="zoom:80%;" />
 
 ### Skewed datasets
 
@@ -336,7 +335,7 @@ A large neural network will usually do as well or better than a smaller one so l
 
 - Maximize purity (or minimize impurity)
 
-![](images\Snipaste_2023-11-13_10-35-30.png)
+<img src="images\Snipaste_2023-11-13_10-35-30.png" style="zoom:50%;" />
 
 **Decision 2:** When do you stop splitting?
 
@@ -351,15 +350,15 @@ A large neural network will usually do as well or better than a smaller one so l
 
 - **Entropy(熵)** as a measure of impurity
 
-![](images\Snipaste_2023-11-13_10-38-12.png)
+<img src="images\Snipaste_2023-11-13_10-38-12.png" style="zoom:50%;" />
 
-![](images\Snipaste_2023-11-13_10-38-49.png)
+<img src="images\Snipaste_2023-11-13_10-38-49.png" style="zoom:50%;" />
 
 
 
 #### Choosing a split: Information Gain
 
-![](images\Snipaste_2023-11-13_10-40-57.png)
+<img src="images\Snipaste_2023-11-13_10-40-57.png" style="zoom:50%;" />
 
 
 
@@ -385,21 +384,21 @@ A large neural network will usually do as well or better than a smaller one so l
 
 If a categorical feature can take on $k$ values, create $k$ binary features (0 or 1 valued).
 
-<img src="images\Snipaste_2023-11-13_10-53-34.png" style="zoom:50%;" />
+<img src="images\Snipaste_2023-11-13_10-53-34.png" style="zoom:40%;" />
 
 
 
 #### Continuous valued features
 
-<img src="images\Snipaste_2023-11-13_10-58-13.png" style="zoom: 50%;" />
+<img src="images\Snipaste_2023-11-13_10-58-13.png" style="zoom: 40%;" />
 
-<img src="images\Snipaste_2023-11-13_10-59-31.png" style="zoom:50%;" />
+<img src="images\Snipaste_2023-11-13_10-59-31.png" style="zoom:40%;" />
 
 
 
 #### Regression Trees
 
-<img src="images\Snipaste_2023-11-13_11-05-08.png" style="zoom:50%;" /> **Input X, Output y**
+<img src="images\Snipaste_2023-11-13_11-05-08.png" style="zoom:40%;" /> **Input X, Output y**
 
 <img src="images\Snipaste_2023-11-13_11-05-57.png" style="zoom:50%;" />每个叶子节点的值为分给该叶子节点的所有样本(体重)的**平均值**
 
@@ -413,39 +412,39 @@ If a categorical feature can take on $k$ values, create $k$ binary features (0 o
 
 Reason: Trees are highly sensitive to small changes of the data
 
-<img src="images\Snipaste_2023-11-13_11-16-16.png" style="zoom:50%;" />
+<img src="images\Snipaste_2023-11-13_11-16-16.png" style="zoom:40%;" />
 
 
 
 #### Sampling with replacement
 
-<img src="images\Snipaste_2023-11-13_11-17-50.png" style="zoom:50%;" />
+<img src="images\Snipaste_2023-11-13_11-17-50.png" style="zoom:40%;" />
 
-<img src="images\Snipaste_2023-11-13_11-18-12.png" style="zoom:50%;" />
+<img src="images\Snipaste_2023-11-13_11-18-12.png" style="zoom:40%;" />
 
 
 
 #### Random forest algorithm
 
-<img src="images\Snipaste_2023-11-13_11-20-00.png" style="zoom:50%;" />
+<img src="images\Snipaste_2023-11-13_11-20-00.png" style="zoom:40%;" />
 
-<img src="images\Snipaste_2023-11-13_11-20-38.png" style="zoom:50%;" />
+<img src="images\Snipaste_2023-11-13_11-20-38.png" style="zoom:40%;" />
 
 
 
 #### XGBoost
 
-<img src="images\Snipaste_2023-11-13_11-21-41.png" style="zoom:50%;" />
+<img src="images\Snipaste_2023-11-13_11-21-41.png" style="zoom:40%;" />
 
-<img src="images\Snipaste_2023-11-13_11-24-08.png" style="zoom:50%;" />
+<img src="images\Snipaste_2023-11-13_11-24-08.png" style="zoom:40%;" />
 
-<img src="images\Snipaste_2023-11-13_11-24-46.png" style="zoom:50%;" />
+<img src="images\Snipaste_2023-11-13_11-24-46.png" style="zoom:40%;" />
 
 
 
 ### Conclusion
 
-<img src="images\Snipaste_2023-11-13_11-28-35.png" style="zoom:50%;" />
+<img src="images\Snipaste_2023-11-13_11-28-35.png" style="zoom:40%;" />
 
 
 
@@ -470,7 +469,6 @@ Reason: Trees are highly sensitive to small changes of the data
     <img src="E:\课程\Machine_learning_spelization\images\Snipaste_2023-11-13_11-40-15.png" width="450">
     <img src="E:\课程\Machine_learning_spelization\images\Snipaste_2023-11-13_11-40-25.png" width="450">
 </center>
-
 
 
 <img src="images\Snipaste_2023-11-13_11-46-41.png" style="zoom:50%;" />
@@ -510,7 +508,6 @@ Reason: Trees are highly sensitive to small changes of the data
     <img src="E:\课程\Machine_learning_spelization\images\Snipaste_2023-11-13_12-10-00.png" width="470">
     <img src="E:\课程\Machine_learning_spelization\images\Snipaste_2023-11-13_12-10-38.png" width="470">
 </center>
-
 <img src="images\Snipaste_2023-11-13_12-12-13.png" style="zoom:50%;" />
 
 
@@ -630,8 +627,7 @@ Suppose there is a new user who has never rated any movies, and we will train $w
 >     <img src="E:\课程\Machine_learning_spelization\images\Snipaste_2023-11-13_19-22-28.png" width="460"/>
 >     <img src="E:\课程\Machine_learning_spelization\images\Snipaste_2023-11-13_19-23-16.png" width="460"/>
 > </center>
->
-> <img src="images\Snipaste_2023-11-13_19-25-49.png" style="zoom:75%;" />
+><img src="images\Snipaste_2023-11-13_19-25-49.png" style="zoom:75%;" />
 
 
 
@@ -811,8 +807,7 @@ Mini-batch
     <img src="E:\课程\Machine_learning_spelization\images\Snipaste_2023-11-14_12-04-27.png" width="460" />
     <img src="E:\课程\Machine_learning_spelization\images\Snipaste_2023-11-14_12-05-07.png" width="460" />
 </center>
-
-![](images\Snipaste_2023-11-14_12-07-34.png)
+<img src="images\Snipaste_2023-11-14_12-07-34.png" style="zoom:90%;" />
 
 soft update (used for target Q network)
 
@@ -830,5 +825,5 @@ By using experience replay we avoid problematic correlations, oscillations and i
 
 #### Final algorithm
 
-<img src="images\deep_q_algorithm.png" style="zoom:40%;" />
+<img src="images\deep_q_algorithm.png" style="zoom:35%;" />
 
