@@ -139,8 +139,9 @@ $$
 #### Model
 
 <center>
-    <img src="E:\课程\Machine_learning_spelization\images\Snipaste_2023-11-15_11-32-35.png">
+    <img src="images\Snipaste_2023-11-15_11-32-35.png">
 </center>
+
 
 #### Activation function
 
@@ -335,7 +336,7 @@ A large neural network will usually do as well or better than a smaller one so l
 
 - Maximize purity (or minimize impurity)
 
-<img src="images\Snipaste_2023-11-13_10-35-30.png" style="zoom:50%;" />
+<img src="images\Snipaste_2023-11-13_10-35-30.png" style="zoom:40%;" />
 
 **Decision 2:** When do you stop splitting?
 
@@ -350,15 +351,15 @@ A large neural network will usually do as well or better than a smaller one so l
 
 - **Entropy(熵)** as a measure of impurity
 
-<img src="images\Snipaste_2023-11-13_10-38-12.png" style="zoom:50%;" />
+<img src="images\Snipaste_2023-11-13_10-38-12.png" style="zoom:40%;" />
 
-<img src="images\Snipaste_2023-11-13_10-38-49.png" style="zoom:50%;" />
+<img src="images\Snipaste_2023-11-13_10-38-49.png" style="zoom:40%;" />
 
 
 
 #### Choosing a split: Information Gain
 
-<img src="images\Snipaste_2023-11-13_10-40-57.png" style="zoom:50%;" />
+<img src="images\Snipaste_2023-11-13_10-40-57.png" style="zoom:40%;" />
 
 
 
@@ -402,7 +403,7 @@ If a categorical feature can take on $k$ values, create $k$ binary features (0 o
 
 <img src="images\Snipaste_2023-11-13_11-05-57.png" style="zoom:50%;" />每个叶子节点的值为分给该叶子节点的所有样本(体重)的**平均值**
 
-<img src="images\Snipaste_2023-11-13_11-06-43.png" width="650"> **Variance** as a measure of impurity
+<img src="images\Snipaste_2023-11-13_11-06-43.png" style="zoom:40%"> **Variance** as a measure of impurity
 
 
 
